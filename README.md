@@ -2,21 +2,15 @@
 
 ## About Me
 
-<!--- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### TL;DR:
+<img src="https://media.giphy.com/media/LLjvtJwvzaTni/source.gif" align="left" height="150">
 
 - 🔭 I’m currently working on [Fukuro](https://github.com/d0p1s4m4/Fukuro) and [Istar](https://github.com/d0p1s4m4/Istar)
 - 😄 Pronouns: she/her
+- 📫 You can reach me at `ROT13(pbagnpg@q0c1.rh)` or `ROT13(q0c1@qrifr.jvxv)`
 - ⚡ Fun fact: `The history of all hitherto existing society is the history of class struggles.`
+
+
+<br/>
 
 ---
 
@@ -31,6 +25,7 @@ I mainly work with:
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="40px" />
 <img src="https://devicon.dev/devicon.git/icons/vim/vim-original.svg" width="40px" />
 <img src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg" width="40px" />
+<img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="40px">
 
 </div>
 
