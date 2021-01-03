@@ -18,15 +18,15 @@ I mainly work with:
 
 <div align="center">
 
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="40px" />
-<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="40px" />
-<img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" width="40px" />
-<img src="https://devicon.dev/devicon.git/icons/nginx/nginx-original.svg"  width="40px">
-<img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="40px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"  width="40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" width="40px" />
-<img src="https://devicon.dev/devicon.git/icons/vim/vim-original.svg" width="40px" />
-<img src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg" width="40px" />
-<img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="40px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="40px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40px">
 
 </div>
 
