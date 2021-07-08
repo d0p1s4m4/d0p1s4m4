@@ -30,9 +30,17 @@ I mainly work with:
 
 </div>
 
+
+<br/>
+
+---
+
+<details>
+<summary>Statistics 📈</summary>
 <div align="center">
-  
-  ![d0p1's github stats](https://github-readme-stats.vercel.app/api?username=d0p1s4m4&show_icons=true&theme=graywhite&layout=compact&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0p1s4m4&hide=html&theme=graywhite&layout=compact&hide_border=true)
+
+![d0p1's github stats](https://github-readme-stats.vercel.app/api?username=d0p1s4m4&show_icons=true&theme=graywhite&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0p1s4m4&hide=html&theme=graywhite&layout=compact&hide_border=true)
 
 </div>
+</details>
