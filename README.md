@@ -2,7 +2,7 @@
 
 ## About Me
 
-<img src="https://media.giphy.com/media/LLjvtJwvzaTni/source.gif" align="left" height="150">
+<img src="sailor_moon_peace.gif" align="left" height="150">
 
 - 🔭 I’m currently working on [Fukuro](https://github.com/d0p1s4m4/Fukuro) and [Istar](https://github.com/d0p1s4m4/Istar)
 - 😄 Pronouns: she/her
