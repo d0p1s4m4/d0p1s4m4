@@ -18,7 +18,8 @@ I mainly work with:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original-wordmark.svg" width="40px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" width="40px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"  width="40px">
