@@ -18,16 +18,36 @@ I mainly work with:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original-wordmark.svg" width="40px" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" width="40px" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40px" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40px" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"  width="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40px" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" width="40px" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="40px" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="40px" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40px">
+<a href="https://ocaml.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original-wordmark.svg" width="40px" />
+</a>
+<a href="https://www.perl.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" width="40px" />
+</a>
+<a href="https://gcc.gnu.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40px" />
+</a>
+<a href="https://www.postgresql.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40px" />
+</a>
+<a href="https://www.nginx.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"  width="40px">
+</a>
+<a href="https://kernel.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40px" />
+</a>
+<a href="https://www.gnu.org/software/emacs/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" width="40px" />
+</a>
+<a href="https://www.vim.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="40px" />
+</a>
+<a href="https://www.gimp.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="40px" />
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40px">
+</a>
 
 </div>
 
