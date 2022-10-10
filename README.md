@@ -70,4 +70,8 @@ I mainly work with:
 </picture>
 
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </details>
