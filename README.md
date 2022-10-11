@@ -72,6 +72,12 @@ I mainly work with:
 </div>
 
 <!--START_SECTION:waka-->
+
+```text
+C             3 hrs 9 mins    ███████████████████▓░░░░░   78.55 %
+Other         26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
+```
+
 <!--END_SECTION:waka-->
 
 </details>
