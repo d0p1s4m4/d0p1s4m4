@@ -74,9 +74,10 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown        11 hrs 54 mins  ███████░░░░░░░░░░░░░░░░░░   28.54 %
-YAML            8 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   20.52 %
-Other           4 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+Markdown        9 hrs 49 mins   ██████░░░░░░░░░░░░░░░░░░░   23.66 %
+OCaml           8 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+YAML            8 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.57 %
+Other           5 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
 ```
 
 <!--END_SECTION:waka-->
