@@ -74,9 +74,9 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-OCaml              12 hrs 9 mins   █████████░░░░░░░░░░░░░░░░   35.92 %
-C                  7 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
-Other              4 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+OCaml              11 hrs 20 mins  █████████▓░░░░░░░░░░░░░░░   38.50 %
+C                  6 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.32 %
+Other              3 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
 ```
 
 <!--END_SECTION:waka-->
