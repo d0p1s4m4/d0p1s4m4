@@ -74,10 +74,10 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-OCaml            7 hrs 2 mins    ████████▒░░░░░░░░░░░░░░░░   32.84 %
-C                4 hrs 39 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
-Markdown         3 hrs 44 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
-Other            1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+OCaml            7 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   30.96 %
+C                5 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
+Markdown         3 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
+Other            2 hrs 48 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
 ```
 
 <!--END_SECTION:waka-->
