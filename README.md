@@ -74,9 +74,9 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-C                 10 hrs 11 mins  █████████▓░░░░░░░░░░░░░░░   38.15 %
-Makefile          5 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.98 %
-Other             1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+C                 8 hrs 23 mins   █████████░░░░░░░░░░░░░░░░   36.49 %
+Makefile          4 hrs 50 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
+Other             1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
 ```
 
 <!--END_SECTION:waka-->
