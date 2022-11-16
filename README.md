@@ -60,11 +60,10 @@ I mainly work with:
 <summary>Statistics 📈</summary>
 <div align="center">
 
-![d0p1's github stats](https://github-readme-stats.vercel.app/api?username=d0p1s4m4&show_icons=true&theme=github_dark&layout=compact&hide_border=true&count_private=true#gh-dark-mode-only)
-![d0p1's github stats](https://github-readme-stats.vercel.app/api?username=d0p1s4m4&show_icons=true&theme=graywhite&layout=compact&hide_border=true&count_private=true#gh-light-mode-only)
-
-!["Top Langs"](https://github-readme-stats.vercel.app/api/top-langs/?username=d0p1s4m4&theme=github_dark&hide=html,Makefile&layout=compact&hide_border=true#gh-dark-mode-only)
-!["Top Langs"](https://github-readme-stats.vercel.app/api/top-langs/?username=d0p1s4m4&theme=graywhite&hide=html,Makefile&layout=compact&hide_border=true#gh-light-mode-only)
+[![d0p1's github stats](https://github-readme-stats.vercel.app/api?username=d0p1s4m4&show_icons=true&theme=github_dark&layout=compact&hide_border=true&count_private=true#gh-dark-mode-only)](https://github.com/d0p1s4m4/d0p1s4m4#gh-dark-mode-only)
+[![d0p1's github stats](https://github-readme-stats.vercel.app/api?username=d0p1s4m4&show_icons=true&theme=graywhite&layout=compact&hide_border=true&count_private=true#gh-light-mode-only)](https://github.com/d0p1s4m4/d0p1s4m4#gh-light-mode-only)
+[!["Top Langs"](https://github-readme-stats.vercel.app/api/top-langs/?username=d0p1s4m4&theme=github_dark&hide=html,Makefile&layout=compact&hide_border=true#gh-dark-mode-only)](https://github.com/d0p1s4m4/d0p1s4m4#gh-dark-mode-only)
+[!["Top Langs"](https://github-readme-stats.vercel.app/api/top-langs/?username=d0p1s4m4&theme=graywhite&hide=html,Makefile&layout=compact&hide_border=true#gh-light-mode-only)](https://github.com/d0p1s4m4/d0p1s4m4#gh-light-mode-only)
 
 </div>
 
