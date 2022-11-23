@@ -70,12 +70,10 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-OCaml              8 hrs 29 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
-TableGen           6 hrs 21 mins   █████░░░░░░░░░░░░░░░░░░░░   19.35 %
-C                  5 hrs 41 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-Markdown           3 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-C++                2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-Other              2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+C                  7 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
+TableGen           6 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.28 %
+Markdown           3 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
+Other              2 hrs 32 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
 ```
 
 <!--END_SECTION:waka-->
