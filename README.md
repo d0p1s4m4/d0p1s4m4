@@ -70,10 +70,10 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-C                  7 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
-TableGen           6 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.28 %
-Markdown           3 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-Other              2 hrs 32 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+C                9 hrs 21 mins   ████████░░░░░░░░░░░░░░░░░   32.02 %
+TableGen         5 hrs 55 mins   █████░░░░░░░░░░░░░░░░░░░░   20.31 %
+Markdown         3 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
+Other            2 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
 ```
 
 <!--END_SECTION:waka-->
