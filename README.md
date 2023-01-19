@@ -70,10 +70,9 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-Common Lisp        7 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   23.50 %
-C                  5 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
-ca65 assembler     4 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-Other              3 hrs 42 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+Common Lisp        7 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.34 %
+ca65 assembler     7 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
+Other              4 hrs 49 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
 ```
 
 <!--END_SECTION:waka-->
