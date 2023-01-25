@@ -70,9 +70,10 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-ca65 assembler   10 hrs 45 mins  ███████▒░░░░░░░░░░░░░░░░░   29.19 %
-Assembly         6 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.76 %
-Other            3 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+ca65 assembler   10 hrs 5 mins   ███████▓░░░░░░░░░░░░░░░░░   31.01 %
+Assembly         6 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   19.46 %
+Scheme           3 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+Other            3 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
 ```
 
 <!--END_SECTION:waka-->
