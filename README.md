@@ -70,12 +70,12 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-ca65 assembler   9 hrs 29 mins   ████████▒░░░░░░░░░░░░░░░░   32.71 %
-Scheme           5 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.92 %
-Assembly         4 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
-JavaScript       1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-HTML             1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Markdown         1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+ca65 assembler   8 hrs 47 mins   ██████████░░░░░░░░░░░░░░░   39.35 %
+Assembly         4 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
+Scheme           2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+Markdown         1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+TeX              1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+YAML             44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
 
 <!--END_SECTION:waka-->
