@@ -70,12 +70,12 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-Scheme             7 hrs 43 mins   ████████▓░░░░░░░░░░░░░░░░   34.35 %
-C                  4 hrs 26 mins   █████░░░░░░░░░░░░░░░░░░░░   19.72 %
-JavaScript         3 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
-Markdown           2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
-ca65 assembler     1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-CSS                1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Scheme           7 hrs 43 mins   █████████▒░░░░░░░░░░░░░░░   37.99 %
+C                3 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+JavaScript       3 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
+Markdown         1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+ca65 assembler   1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+CSS              1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
 ```
 
 <!--END_SECTION:waka-->
