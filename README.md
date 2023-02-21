@@ -70,8 +70,8 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-C                11 hrs 52 mins  ██████████▒░░░░░░░░░░░░░░   41.51 %
-Other            3 hrs 57 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
+C                11 hrs 54 mins  ██████████▒░░░░░░░░░░░░░░   41.61 %
+Other            3 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
 ```
 
 <!--END_SECTION:waka-->
