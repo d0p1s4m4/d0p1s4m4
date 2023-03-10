@@ -70,10 +70,11 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-Scheme           5 hrs 42 mins   █████████░░░░░░░░░░░░░░░░   35.97 %
-Makefile         2 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
-Markdown         2 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
-Other            1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+Scheme           5 hrs 39 mins   ████████████▒░░░░░░░░░░░░   48.74 %
+Makefile         2 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   20.17 %
+C                53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Roff             30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Other            30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
 ```
 
 <!--END_SECTION:waka-->
