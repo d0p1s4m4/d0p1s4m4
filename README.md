@@ -70,9 +70,8 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-Makefile         5 hrs 7 mins    █████████▒░░░░░░░░░░░░░░░   37.29 %
-Markdown         2 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
-Other            2 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+Makefile         4 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   31.78 %
+Other            3 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
 ```
 
 <!--END_SECTION:waka-->
