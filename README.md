@@ -70,8 +70,8 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-Makefile         4 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   31.78 %
-Other            3 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
+Makefile         6 hrs 25 mins   ██████████▒░░░░░░░░░░░░░░   41.80 %
+Other            3 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   19.97 %
 ```
 
 <!--END_SECTION:waka-->
