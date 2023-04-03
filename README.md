@@ -70,12 +70,7 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-C             1 hr 27 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
-TeX           1 hr 21 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
-Assembly      1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
-Makefile      1 hr 9 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
-Markdown      1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
-Other         30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Other        2 hrs 35 mins   ██████░░░░░░░░░░░░░░░░░░░   24.51 %
 ```
 
 <!--END_SECTION:waka-->
