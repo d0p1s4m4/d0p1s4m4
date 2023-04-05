@@ -70,7 +70,7 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-Other        2 hrs 35 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
+Other              5 hrs 6 mins    █████████▒░░░░░░░░░░░░░░░   36.89 %
 ```
 
 <!--END_SECTION:waka-->
