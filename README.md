@@ -70,11 +70,11 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-Makefile         2 hrs 35 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.54 %
-Markdown         1 hr 41 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
-Scheme           1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
-Python           49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-Other            46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+Makefile         2 hrs 35 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
+Markdown         1 hr 41 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
+Scheme           1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+Python           49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+Other            46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
 ```
 
 <!--END_SECTION:waka-->
