@@ -70,11 +70,11 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```text
-Groovy           1 hr 16 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
-YAML             1 hr 12 mins    █████░░░░░░░░░░░░░░░░░░░░   20.31 %
-ca65 assembler   39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
-Properties       29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-Python           29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+Groovy           1 hr 16 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
+YAML             1 hr 12 mins    █████░░░░░░░░░░░░░░░░░░░░   19.94 %
+ca65 assembler   39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+Properties       29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+Python           29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
 ```
 
 <!--END_SECTION:waka-->
