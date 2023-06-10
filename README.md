@@ -70,11 +70,11 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Text             3 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.12 %
-ca65 assembler   3 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.53 %
-Other            1 hr 45 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-Makefile         53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-Markdown         38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+ca65 assembler   4 hrs 18 mins   ████████▒░░░░░░░░░░░░░░░░   33.77 %
+Other            1 hr 57 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
+Text             1 hr 48 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
+Makefile         1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+PHP              58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
 ```
 
 <!--END_SECTION:waka-->
