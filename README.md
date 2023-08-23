@@ -70,7 +70,11 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     3 hrs 27 mins   █████████████████████▓░░░   86.12 %
+TypeScript   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+Svelte       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Groovy       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
