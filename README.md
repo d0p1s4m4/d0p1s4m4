@@ -70,11 +70,11 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                      3 hrs 29 mins   █████████▒░░░░░░░░░░░░░░░   36.79 %
-C                             3 hrs 18 mins   ████████▓░░░░░░░░░░░░░░░░   34.77 %
-Dart                          59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-Devicetree                    21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-TypeScript                    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+C                             3 hrs 43 mins   ████████▓░░░░░░░░░░░░░░░░   34.59 %
+Markdown                      3 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   32.53 %
+Dart                          1 hr 25 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+Makefile                      23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Devicetree                    21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 ```
 
 <!--END_SECTION:waka-->
