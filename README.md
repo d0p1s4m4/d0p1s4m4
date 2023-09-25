@@ -70,10 +70,11 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                          1 hr 37 mins    █████████████████▒░░░░░░░   69.20 %
-C                             41 mins         ███████▒░░░░░░░░░░░░░░░░░   29.22 %
-Other                         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Application Resource Bundle   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Dart                          1 hr 37 mins    ███████████▓░░░░░░░░░░░░░   46.54 %
+C                             1 hr 17 mins    █████████▒░░░░░░░░░░░░░░░   37.06 %
+Makefile                      18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+Python                        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Kconfig                       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
