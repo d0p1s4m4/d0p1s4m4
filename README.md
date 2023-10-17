@@ -70,7 +70,8 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   14 mins         █████████████████████████   100.00 %
+Other   2 mins          ███████████████████████▓░   95.01 %
+Dart    0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
 ```
 
 <!--END_SECTION:waka-->
