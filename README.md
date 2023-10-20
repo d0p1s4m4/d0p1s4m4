@@ -70,7 +70,9 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   2 mins          █████████████████████████   100.00 %
+Git Config   3 mins          ██████████▓░░░░░░░░░░░░░░   42.04 %
+Other        2 mins          ████████░░░░░░░░░░░░░░░░░   32.44 %
+Makefile     2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.52 %
 ```
 
 <!--END_SECTION:waka-->
