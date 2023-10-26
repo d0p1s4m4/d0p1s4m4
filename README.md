@@ -70,8 +70,7 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   3 mins          ███████████████▓░░░░░░░░░   62.23 %
-Makefile     2 mins          █████████▒░░░░░░░░░░░░░░░   37.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
