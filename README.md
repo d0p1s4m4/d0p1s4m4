@@ -70,11 +70,11 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-C                     3 hrs 19 mins   █████████████▒░░░░░░░░░░░   52.94 %
-Other                 2 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   35.88 %
-Org                   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-Makefile              9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Debian Control file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Other                 2 hrs 15 mins   ██████████████▓░░░░░░░░░░   58.46 %
+C                     59 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.90 %
+Org                   20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Makefile              7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Debian Control file   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
