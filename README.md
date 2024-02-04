@@ -70,7 +70,10 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              1 hr 15 mins    ████████████████████▓░░░░   82.05 %
+Groovy            6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Java Properties   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Text              3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
 ```
 
 <!--END_SECTION:waka-->
