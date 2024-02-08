@@ -70,10 +70,11 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              1 hr 15 mins    ████████████████████▓░░░░   82.05 %
-Groovy            6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Java              1 hr 15 mins    ████████████████████▓░░░░   82.01 %
+Groovy            6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
 Java Properties   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
 Text              3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Makefile          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
