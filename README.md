@@ -70,11 +70,11 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                          6 hrs 31 mins   █████████████████████▒░░░   84.80 %
-Org                           40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-C                             22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Application Resource Bundle   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Other                         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Dart                          9 hrs 7 mins    ██████████████████████░░░   88.46 %
+Org                           40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+C                             22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Application Resource Bundle   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Other                         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
