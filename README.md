@@ -4,7 +4,7 @@
 
 <img src="sailor_moon_peace.gif" align="left" height="150">
 
-🔭 I’m currently working on [Fukuro](https://github.com/d0p1s4m4/Fukuro) and [Istar](https://github.com/d0p1s4m4/Istar)<br>
+🔭 I’m currently working on [StupidOS](https://stupidos.d0p1.eu)<br>
 😄 Pronouns: she/her<br>
 📫 You can reach me at `ROT13(pbagnpg@q0c1.rh)` or `ROT13(q0c1@qrifr.jvxv)`<br>
 ⚡ Fun fact: `The history of all hitherto existing society is the history of class struggles.`
