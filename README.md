@@ -70,7 +70,9 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Assembly   2 hrs 46 mins   █████████████████████▓░░░   86.17 %
+C          26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
