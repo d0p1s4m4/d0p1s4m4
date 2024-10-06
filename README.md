@@ -70,9 +70,8 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-C          9 mins          ██████████████▒░░░░░░░░░░   57.08 %
-Other      6 mins          ██████████▓░░░░░░░░░░░░░░   42.88 %
-Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+C       9 mins          ██████████████▒░░░░░░░░░░   57.10 %
+Other   6 mins          ██████████▓░░░░░░░░░░░░░░   42.90 %
 ```
 
 <!--END_SECTION:waka-->
