@@ -70,8 +70,7 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-C       9 mins          ██████████████▒░░░░░░░░░░   57.10 %
-Other   6 mins          ██████████▓░░░░░░░░░░░░░░   42.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
