@@ -70,11 +70,9 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-C                 1 hr 6 mins     ███████████████████████░░   91.67 %
-Other             2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-Objective-C       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Git Config        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Makefile          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+C                     0 secs          ████████████████████▒░░░░   81.97 %
+Other                 0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
+Debian Control file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
