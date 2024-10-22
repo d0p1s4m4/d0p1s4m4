@@ -70,9 +70,9 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-C                     0 secs          ████████████████████▒░░░░   81.97 %
-Other                 0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
-Debian Control file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+HTML                  2 mins          ███████████████████████▓░   94.48 %
+Other                 0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Debian Control file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
