@@ -70,9 +70,11 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML                  2 mins          ███████████████████████▓░   94.48 %
-Other                 0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Debian Control file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+C                     23 mins         ██████████████████▓░░░░░░   74.74 %
+Assembly              4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
+HTML                  2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Other                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Debian Control file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
