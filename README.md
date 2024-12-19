@@ -70,11 +70,7 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 9 mins     █████████████▓░░░░░░░░░░░   54.10 %
-Assembly   54 mins         ██████████▒░░░░░░░░░░░░░░   41.95 %
-Text       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+C   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
