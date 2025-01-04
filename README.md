@@ -70,11 +70,11 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly   6 hrs 43 mins   ████████████████████████▒   97.39 %
+Assembly   6 hrs 43 mins   ████████████████████████▒   97.44 %
 Text       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 Makefile   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
