@@ -70,7 +70,10 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C             50 mins         ████████████████████████▒   97.97 %
+Objective-C   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Other         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
