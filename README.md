@@ -70,7 +70,10 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CSS          36 mins         █████████▒░░░░░░░░░░░░░░░   37.94 %
+HTML         30 mins         ████████░░░░░░░░░░░░░░░░░   32.11 %
+Markdown     24 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.52 %
+JavaScript   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->
