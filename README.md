@@ -70,11 +70,11 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-C              2 hrs 49 mins   ████████████▓░░░░░░░░░░░░   50.79 %
-ObjectPascal   1 hr 45 mins    ████████░░░░░░░░░░░░░░░░░   31.59 %
-Other          33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-Makefile       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-Assembly       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+C              3 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   46.08 %
+ObjectPascal   1 hr 45 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
+Assembly       1 hr 38 mins    █████░░░░░░░░░░░░░░░░░░░░   20.39 %
+Other          34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Makefile       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
