@@ -70,8 +70,8 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby     44 mins         ███████████████▒░░░░░░░░░   61.19 %
-Python   27 mins         █████████▓░░░░░░░░░░░░░░░   38.81 %
+Python   27 mins         █████████████████████▓░░░   86.01 %
+Ruby     4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
 ```
 
 <!--END_SECTION:waka-->
