@@ -70,10 +70,10 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-C            11 hrs 42 mins  ████████████████████████▒   97.42 %
-Git Config   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Makefile     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Assembly     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+C            13 hrs 52 mins  ████████████████████████▒   97.70 %
+Git Config   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Makefile     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Assembly     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
