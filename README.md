@@ -70,11 +70,7 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-C             24 mins               ████████████████████████▓   98.83 %
-Common Lisp   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Yacc          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Other         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Makefile      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
