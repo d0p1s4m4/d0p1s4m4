@@ -70,9 +70,7 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-C          53 mins               █████████████████████▒░░░   84.68 %
-Other      6 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-Markdown   3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
