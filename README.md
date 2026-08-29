@@ -70,7 +70,8 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Makefile   0 secs                ███████████████████░░░░░░   76.41 %
+Assembly   0 secs                ██████░░░░░░░░░░░░░░░░░░░   23.59 %
 ```
 
 <!--END_SECTION:waka-->
