@@ -70,10 +70,10 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Text                1 hr 32 mins          ████████████████████░░░░░   79.80 %
-Makefile            21 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
-C                   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Gradle Kotlin DSL   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Text                1 hr 16 mins          ███████████████████░░░░░░   76.52 %
+Makefile            21 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
+C                   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Gradle Kotlin DSL   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
