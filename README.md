@@ -70,9 +70,9 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Text                24 mins               █████████████░░░░░░░░░░░░   52.29 %
-Makefile            21 mins               ████████████░░░░░░░░░░░░░   47.62 %
-Gradle Kotlin DSL   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python              3 hrs 28 mins         ████████████████████████▓   98.34 %
+Makefile            3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Gradle Kotlin DSL   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
