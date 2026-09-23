@@ -70,8 +70,7 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Python              3 hrs 28 mins         ████████████████████████▓   98.34 %
-Makefile            3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Python              3 hrs 28 mins         █████████████████████████   99.98 %
 Gradle Kotlin DSL   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
