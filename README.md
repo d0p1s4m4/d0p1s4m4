@@ -70,9 +70,9 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-C          6 hrs 22 mins         ████████████████░░░░░░░░░   64.48 %
-Makefile   3 hrs 10 mins         ████████░░░░░░░░░░░░░░░░░   32.05 %
-Text       20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+C          8 hrs 39 mins         ████████████████▓░░░░░░░░   66.53 %
+Makefile   4 hrs                 ███████▓░░░░░░░░░░░░░░░░░   30.83 %
+Text       20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
