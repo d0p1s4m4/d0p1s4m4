@@ -70,9 +70,11 @@ I mainly work with:
 <!--START_SECTION:waka-->
 
 ```txt
-C          8 hrs 39 mins         ████████████████▓░░░░░░░░   66.53 %
-Makefile   4 hrs                 ███████▓░░░░░░░░░░░░░░░░░   30.83 %
-Text       20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+C                11 hrs 16 mins        █████████████████▓░░░░░░░   70.54 %
+Makefile         4 hrs 15 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
+Text             20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Git Config       5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+RGBDS Assembly   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
